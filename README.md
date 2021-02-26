@@ -1,1 +1,1 @@
-This is simple Dicee Game, it give the result when the page is reload.
+This is simple Dicee Game, it gives the result when the page is reload.
